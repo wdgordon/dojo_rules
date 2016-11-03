@@ -11,3 +11,4 @@ list of skills:
 * HTML
 * CSS
 * SQL
+* Killing history using git rebase
